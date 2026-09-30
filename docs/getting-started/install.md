@@ -29,6 +29,7 @@ sudo install ./phoneinfoga /usr/local/bin/phoneinfoga
 ```
 ./phoneinfoga version
 ```
+./phoneinfoga version
 
 To ensure your system is supported, please check the output of `echo "$(uname -s)_$(uname -m)"` in your terminal and see if it's available on the [GitHub release page](https://github.com/sundowndev/phoneinfoga/releases).
 
